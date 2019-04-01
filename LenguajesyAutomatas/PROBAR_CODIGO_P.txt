@@ -1,0 +1,15 @@
+class c():
+{
+	def c(self):
+	{
+		if x ==5:
+		{
+			t = 5
+		}
+		else:
+		{
+			t =6
+		}
+	
+	}
+}

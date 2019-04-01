@@ -1,0 +1,32 @@
+import sql
+import web
+import time
+class SerVivo():
+{
+}
+
+class Humano(SerVivo):
+{
+	def GuardarPeso(self,pesoactual,x,y,z):
+	{
+		xxx = 0
+		peso = pesoactual
+		x = 0
+		ym = 0
+		z = 0
+		r = 0
+		selff.GuardarPeso(234,234,12,ym)
+	}
+
+	def GuardarPesoo(self,pesoactual):
+	{
+		xxx = 0
+		peso = pesoactual
+		x = 0
+		ym = 0
+		z = 0
+		r = 0
+		selff.GuardarPeso(234,234,12,ym)
+		return x+897
+	}
+}

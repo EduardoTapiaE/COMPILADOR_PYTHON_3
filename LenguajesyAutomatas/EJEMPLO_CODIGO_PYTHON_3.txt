@@ -1,0 +1,89 @@
+import sql
+import web
+import time
+class SerVivo():
+{
+}
+
+class Humano(SerVivo):
+{
+	_nombre = ""
+	_apellidoMaterno = ""
+	_apellidoPaterno = ""
+	_peso = 0
+	_altura = 0
+	_fechanacimiento = ""
+	
+	def Humano(self):
+	{
+		xxx = 0
+		fechanacimiento = time.strftime("%c")
+	}
+
+	def GuardarPeso(self,pesoactual,x,y,z):
+	{
+		xxx = 0
+		peso = pesoactual
+		x = 0
+		ym = 0
+		z = 0
+		r = 0
+		selff.GuardarPeso(234,234,12,ym)
+	}
+
+	def GuardarPeso(self,pesoactual):
+	{
+		xxx = 0
+		peso = pesoactual
+		x = 0
+		ym = 0
+		z = 0
+		r = 0
+		selff.GuardarPeso(234,234,12,ym)
+		return x+897
+	}
+
+
+	def CalcularEdad(self):
+	{
+		z = 0
+		for y in range(0,123):
+		{
+			for x in range(0,124):
+			{
+				if x==10:
+				{
+					x=10
+				}
+				elif x==9:
+                                      {
+					x = 23 +23 +23 + y + x + z 
+                                      }
+			}
+		}
+		return fechaactual-fechanacimineto
+	}
+	def Metodo1(self):
+	{
+		x =0
+		s =0
+		sd=0
+		sad=0
+		sa=0
+		if x==10:
+		{
+			if x ==11:
+			{
+				X = 2+3+4+5-4/34
+			}
+			elif x==12:
+			{
+				X = s+sd+sd+12+123+sad/sa
+			}else:
+			{
+				X = X+12
+			}
+		}
+
+	}
+}
