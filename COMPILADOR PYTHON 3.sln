@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMPILADOR_PYTHON_3", "LenguajesyAutomatas\COMPILADOR_PYTHON_3.csproj", "{44420156-121A-4650-AF93-E61CDD1AEAD1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMPILADOR PYTHON 3", "LenguajesyAutomatas\COMPILADOR PYTHON 3.csproj", "{44420156-121A-4650-AF93-E61CDD1AEAD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
