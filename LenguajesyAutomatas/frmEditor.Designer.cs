@@ -113,13 +113,15 @@
             // 
             // tsrEjecutarAnalizadorLexico
             // 
+            this.tsrEjecutarAnalizadorLexico.Enabled = false;
             this.tsrEjecutarAnalizadorLexico.Name = "tsrEjecutarAnalizadorLexico";
-            this.tsrEjecutarAnalizadorLexico.Size = new System.Drawing.Size(52, 20);
+            this.tsrEjecutarAnalizadorLexico.Size = new System.Drawing.Size(53, 20);
             this.tsrEjecutarAnalizadorLexico.Text = "Lexico";
             this.tsrEjecutarAnalizadorLexico.Click += new System.EventHandler(this.tsrEjecutarAnalizadorLexico_Click);
             // 
             // tsrEjecutarAnalizadorSintactico
             // 
+            this.tsrEjecutarAnalizadorSintactico.Enabled = false;
             this.tsrEjecutarAnalizadorSintactico.Name = "tsrEjecutarAnalizadorSintactico";
             this.tsrEjecutarAnalizadorSintactico.Size = new System.Drawing.Size(71, 20);
             this.tsrEjecutarAnalizadorSintactico.Text = "Sintactico";
@@ -127,6 +129,7 @@
             // 
             // semanticoToolStripMenuItem
             // 
+            this.semanticoToolStripMenuItem.Enabled = false;
             this.semanticoToolStripMenuItem.Name = "semanticoToolStripMenuItem";
             this.semanticoToolStripMenuItem.Size = new System.Drawing.Size(75, 20);
             this.semanticoToolStripMenuItem.Text = "Semantico";

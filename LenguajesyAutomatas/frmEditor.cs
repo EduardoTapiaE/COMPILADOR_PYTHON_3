@@ -98,7 +98,8 @@ namespace LenguajesyAutomatas
                     {
                         List<Token> ListaDeTokens = _lex.EjecutarLexico(codigofuente);
                         dgvListaTokens.DataSource = ListaDeTokens;
-                        tsrEjecutarAnalizadorSintactico.PerformClick();
+                        tsrEjecutarAnalizadorSintactico_Click(null, null);
+                        //tsrEjecutarAnalizadorSintactico.PerformClick();
                     }
                     else
                     {
@@ -172,7 +173,8 @@ namespace LenguajesyAutomatas
         private void ejecutarToolStripMenuItem_Click(object sender, EventArgs e)
         {
             ArbolSintactico.codigoP = "";
-            tsrEjecutarAnalizadorLexico.PerformClick();
+            tsrEjecutarAnalizadorLexico_Click(null, null);
+            //tsrEjecutarAnalizadorLexico.PerformClick();
         }
 
         private void recorrerArbolToolStripMenuItem_Click(object sender, EventArgs e)
